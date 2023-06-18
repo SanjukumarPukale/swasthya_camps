@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640387187266",
+    "project_id": "swasthya-camp",
+    "storage_bucket": "swasthya-camp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640387187266:android:688eb456aa1ed13a33a3db",
+        "android_client_info": {
+          "package_name": "com.swasthya.swasthya_camps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640387187266-0jn5n3v2l92fqvthl3lq41oajcfmjf81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4ansIS033vgJEwVEcBvArE01uiwVxfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640387187266-0jn5n3v2l92fqvthl3lq41oajcfmjf81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
